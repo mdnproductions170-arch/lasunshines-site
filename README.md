@@ -36,3 +36,4 @@ Tout est dans `index.html` :
 - Le lien billetterie Bizouk apparaît 3 fois (nav, carte édition, CTA final)
 - Le texte de l'Article 9 / CGV est dans la section `#regles`
 # lasunshines-site
+# lasunshines-site
