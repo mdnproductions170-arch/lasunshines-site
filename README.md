@@ -35,3 +35,4 @@ Tout est dans `index.html` :
 - Le compte à rebours cible la ligne `const target = new Date("2026-07-31T16:00:00-04:00")`
 - Le lien billetterie Bizouk apparaît 3 fois (nav, carte édition, CTA final)
 - Le texte de l'Article 9 / CGV est dans la section `#regles`
+# lasunshines-site
